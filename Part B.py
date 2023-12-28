@@ -35,14 +35,3 @@ print(agency)
 requiredtext="Annalect India"
 
 print("True") if agency == requiredtext else print("False")
-
-
-
-
-
-
-
-
-
-
-
